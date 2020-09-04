@@ -4,7 +4,7 @@
 
 <groupId>com.panavis.open-source</groupId>
 <artifactId>ortools-linux-x86-64</artifactId>
-<version>7.8.7959</version>
+<version>7.8.7960-SNAPSHOT</version>
 <name>Linux library for Google OR-Tools</name>
 <description>Native library dependency for Google Or-Tools Java</description>
 <url>https://github.com/panavis/google-or-tools-linux</url>
@@ -30,7 +30,7 @@
   <connection>scm:git:git://github.com/panavis/google-or-tools-linux.git</connection>
   <developerConnection>scm:git:ssh://github.com/panavis/google-or-tools-linux.git</developerConnection>
   <url>http://github.com/panavis/google-or-tools-linux</url>
-  <tag>ortools-linux-x86-64-7.8.7959</tag>
+  <tag>google-ortools-7.8.7959</tag>
 </scm>
 
 <issueManagement>
