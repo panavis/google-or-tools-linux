@@ -30,7 +30,7 @@
   <connection>scm:git:git://github.com/panavis/google-or-tools-linux.git</connection>
   <developerConnection>scm:git:ssh://github.com/panavis/google-or-tools-linux.git</developerConnection>
   <url>http://github.com/panavis/google-or-tools-linux</url>
-  <tag>google-ortools-7.8.7959</tag>
+  <tag>ortools-linux-7.8.7959</tag>
 </scm>
 
 <issueManagement>
